@@ -1,8 +1,0 @@
-Product Name: Chips, Product Number: 111, Quantity: 500, Price: 2.0
-Product Name: Energy Bars, Product Number: 222, Quantity: 400, Price: 0.6
-Product Name: Oatmeal, Product Number: 333, Quantity: 600, Price: 1.75
-Product Name: Chocolate, Product Number: 123, Quantity: 500, Price: 0.6
-Product Name: Ginger, Product Number: 1234, Quantity: 400,: Price: 1.50
-Product Name: Pringles, Product Number: 758, Quantity: 50, Price: 2.75
-Product Name: Ibuprofen, Product Number: 548, Quantity: 75, Price: 2.25
-
