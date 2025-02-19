@@ -1,0 +1,2 @@
+Player guess: grape
+Guess count: 2
